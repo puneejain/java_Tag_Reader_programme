@@ -1,0 +1,10 @@
+com\toll\demo\repository\FastagDetailsRepository.class
+com\toll\demo\FastagAppApplication.class
+com\toll\demo\config\WebSocketConfig.class
+com\toll\demo\service\RfidTcpService.class
+com\toll\demo\fastag\controller\FastagController.class
+com\toll\demo\entity\FastagDetails.class
+com\toll\demo\service\FastagService.class
+com\toll\demo\fastag\controller\TestScanController.class
+com\toll\demo\model\Fastag.class
+com\toll\demo\repository\FastagRepository.class
